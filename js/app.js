@@ -31,5 +31,3 @@ function renderDay(data){
   wrapper.innerHTML=html;
   container.insertBefore(wrapper.firstElementChild,container.firstChild)
 }
-
-checkEmpty();
